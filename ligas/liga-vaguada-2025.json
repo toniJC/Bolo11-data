@@ -1,0 +1,738 @@
+{
+  "slug": "liga-vaguada-2025",
+  "name": "Liga Vaguada 2025-2026",
+  "venue": "Centro Comercial La Vaguada, Madrid",
+  "season": "2025-2026",
+  "status": "finished",
+  "currentRound": 11,
+  "totalRounds": 12,
+  "records": {
+    "femenino": {
+      "jugadora": "Alicia Soto",
+      "score": 217
+    },
+    "masculino": {
+      "jugador": "Julian Rodríguez",
+      "score": 297
+    }
+  },
+  "nextJornada": {
+    "announcement": "PRÓXIMA JORNADA - ÚLTIMA",
+    "date": "Lunes 22 de junio de 2026",
+    "libran": [
+      "RX BOWL"
+    ]
+  },
+  "gallery": [
+    "/images/vaguada2526/vaguada-01.jpg",
+    "/images/vaguada2526/vaguada-02.jpg",
+    "/images/vaguada2526/vaguada-03.jpg",
+    "/images/vaguada2526/vaguada-04.jpg",
+    "/images/vaguada2526/vaguada-05.jpg",
+    "/images/vaguada2526/vaguada-06.jpg",
+    "/images/vaguada2526/vaguada-07.jpg",
+    "/images/vaguada2526/vaguada-08.jpg",
+    "/images/vaguada2526/vaguada-09.jpg",
+    "/images/vaguada2526/vaguada-10.jpg",
+    "/images/vaguada2526/vaguada-11.jpg",
+    "/images/vaguada2526/vaguada-12.jpg",
+    "/images/vaguada2526/vaguada-13.jpg",
+    "/images/vaguada2526/vaguada-14.jpg",
+    "/images/vaguada2526/vaguada-15.jpg",
+    "/images/vaguada2526/vaguada-16.jpg",
+    "/images/vaguada2526/vaguada-17.jpg"
+  ],
+  "zonaCampeonato": [
+    {
+      "pos": 1,
+      "equipo": "BeCUADRO",
+      "bolos": 21588,
+      "partidas": 108,
+      "promedio": 199.889,
+      "puntos": 380
+    },
+    {
+      "pos": 2,
+      "equipo": "PLENO o PLOMO",
+      "bolos": 20679,
+      "partidas": 108,
+      "promedio": 191.472,
+      "puntos": 320
+    },
+    {
+      "pos": 3,
+      "equipo": "LAS 4 JOTAS",
+      "bolos": 18619,
+      "partidas": 105,
+      "promedio": 177.324,
+      "puntos": 260
+    },
+    {
+      "pos": 4,
+      "equipo": "PIN TWISTER",
+      "bolos": 18288,
+      "partidas": 108,
+      "promedio": 169.333,
+      "puntos": 210
+    },
+    {
+      "pos": 5,
+      "equipo": "FRIJOL CON BOLA",
+      "bolos": 20433,
+      "partidas": 108,
+      "promedio": 189.194,
+      "puntos": 180
+    },
+    {
+      "pos": 6,
+      "equipo": "TIRAPOCO",
+      "bolos": 18253,
+      "partidas": 108,
+      "promedio": 169.009,
+      "puntos": 150
+    }
+  ],
+  "zonaConsolacion": [
+    {
+      "pos": 1,
+      "equipo": "RX BOWL",
+      "bolos": 17263,
+      "partidas": 108,
+      "promedio": 159.843,
+      "puntos": 140
+    },
+    {
+      "pos": 2,
+      "equipo": "MASTER BLACK",
+      "bolos": 17484,
+      "partidas": 102,
+      "promedio": 171.412,
+      "puntos": 120
+    },
+    {
+      "pos": 3,
+      "equipo": "NEXT",
+      "bolos": 16089,
+      "partidas": 102,
+      "promedio": 157.735,
+      "puntos": 100
+    },
+    {
+      "pos": 4,
+      "equipo": "BACK STRIKE BOYS",
+      "bolos": 16529,
+      "partidas": 102,
+      "promedio": 162.049,
+      "puntos": 0
+    },
+    {
+      "pos": 5,
+      "equipo": "IONICS",
+      "bolos": 13804,
+      "partidas": 90,
+      "promedio": 153.378,
+      "puntos": 0
+    },
+    {
+      "pos": 6,
+      "equipo": "JV SQUAD",
+      "bolos": 14037,
+      "partidas": 102,
+      "promedio": 137.618,
+      "puntos": 0
+    },
+    {
+      "pos": 7,
+      "equipo": "LIVIN'ON A SPARE",
+      "bolos": 11742,
+      "partidas": 102,
+      "promedio": 115.118,
+      "puntos": 0
+    }
+  ],
+  "jornadaResults": [
+    {
+      "numero": 6,
+      "vuelta": 2,
+      "maxPuntosPorPartido": 15,
+      "campeonato": [
+        {
+          "equipoA": "FRIJOL CON BOLA",
+          "puntosA": 8,
+          "equipoB": "PIN TWISTER",
+          "puntosB": 7
+        },
+        {
+          "equipoA": "LAS 4 JOTAS",
+          "puntosA": 6,
+          "equipoB": "BeCUADRO",
+          "puntosB": 9
+        },
+        {
+          "equipoA": "PLENO O PLOMO",
+          "puntosA": 8,
+          "equipoB": "LAS 4 JOTAS",
+          "puntosB": 7
+        },
+        {
+          "equipoA": "TIRAPOCO",
+          "puntosA": 10,
+          "equipoB": "FRIJOL CON BOLA",
+          "puntosB": 5
+        },
+        {
+          "equipoA": "PIN TWISTER",
+          "puntosA": 5,
+          "equipoB": "BeCUADRO",
+          "puntosB": 10
+        }
+      ],
+      "consolacion": [
+        {
+          "equipoA": "MASTER BLACK",
+          "puntosA": 12,
+          "equipoB": "JV SQUAD",
+          "puntosB": 3
+        },
+        {
+          "equipoA": "IONICS",
+          "puntosA": 3,
+          "equipoB": "RX BOWL",
+          "puntosB": 12
+        },
+        {
+          "equipoA": "BACK STRIKE BOYS",
+          "puntosA": 12,
+          "equipoB": "LIVIN'ON A SPARE",
+          "puntosB": 3
+        }
+      ],
+      "consolacionLibraron": [
+        "NEXT"
+      ],
+      "puntosJornada": {
+        "campeonato": [
+          {
+            "pos": 1,
+            "equipo": "PLENO o PLOMO",
+            "bolos": 1306,
+            "puntos": 15
+          },
+          {
+            "pos": 2,
+            "equipo": "BeCUADRO",
+            "bolos": 1280,
+            "puntos": 12
+          },
+          {
+            "pos": 3,
+            "equipo": "PIN TWISTER",
+            "bolos": 1250,
+            "puntos": 10
+          },
+          {
+            "pos": 4,
+            "equipo": "TIRAPOCO",
+            "bolos": 1245,
+            "puntos": 9
+          },
+          {
+            "pos": 5,
+            "equipo": "LAS 4 JOTAS",
+            "bolos": 1218,
+            "puntos": 8
+          },
+          {
+            "pos": 6,
+            "equipo": "FRIJOL CON BOLA",
+            "bolos": 1143,
+            "puntos": 7
+          }
+        ]
+      }
+    }
+  ],
+  "individualStandings": [
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Alejandro Archundia",
+      "equipo": "TIRAPOCO",
+      "bolos": 703,
+      "partidas": 3,
+      "promedio": 234.333,
+      "hdcp": 0,
+      "maxPartida": 269,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": 1,
+      "posFemenina": null,
+      "jugador": "Mike Piccari",
+      "equipo": "BeCUADRO",
+      "bolos": 11564,
+      "partidas": 54,
+      "promedio": 214.148,
+      "hdcp": 0,
+      "maxPartida": 280,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Sam Lusanta",
+      "equipo": "LAS 4 JOTAS",
+      "bolos": 419,
+      "partidas": 2,
+      "promedio": 209.5,
+      "hdcp": 0,
+      "maxPartida": 216,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": 2,
+      "posFemenina": null,
+      "jugador": "Andrés Godoy",
+      "equipo": "FRIJOL CON BOLA",
+      "bolos": 9967,
+      "partidas": 48,
+      "promedio": 207.646,
+      "hdcp": 2,
+      "maxPartida": 279,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 3,
+      "posFemenina": null,
+      "jugador": "Julián Rodríguez",
+      "equipo": "PLENO o PLOMO",
+      "bolos": 10982,
+      "partidas": 54,
+      "promedio": 203.37,
+      "hdcp": 4,
+      "maxPartida": 297,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 4,
+      "posFemenina": null,
+      "jugador": "Juanjo Rollán",
+      "equipo": "LAS 4 JOTAS",
+      "bolos": 9670,
+      "partidas": 51,
+      "promedio": 189.608,
+      "hdcp": 13,
+      "maxPartida": 258,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 5,
+      "posFemenina": null,
+      "jugador": "Edgardo Rodríguez",
+      "equipo": "BeCUADRO",
+      "bolos": 8927,
+      "partidas": 48,
+      "promedio": 185.979,
+      "hdcp": 16,
+      "maxPartida": 250,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Guillermo Santamaría",
+      "equipo": "FRIJOL CON BOLA",
+      "bolos": 550,
+      "partidas": 3,
+      "promedio": 183.333,
+      "hdcp": 17,
+      "maxPartida": 220,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Guille Santamaría",
+      "equipo": "BeCUADRO",
+      "bolos": 1097,
+      "partidas": 6,
+      "promedio": 182.833,
+      "hdcp": 18,
+      "maxPartida": 209,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": 6,
+      "posFemenina": null,
+      "jugador": "Alfonso Bortone",
+      "equipo": "PIN TWISTER",
+      "bolos": 9729,
+      "partidas": 54,
+      "promedio": 180.167,
+      "hdcp": 19,
+      "maxPartida": 231,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 7,
+      "posFemenina": null,
+      "jugador": "Efrain Alvarado",
+      "equipo": "PLENO o PLOMO",
+      "bolos": 9697,
+      "partidas": 54,
+      "promedio": 179.574,
+      "hdcp": 20,
+      "maxPartida": 233,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 8,
+      "posFemenina": null,
+      "jugador": "M. Andres Rojas",
+      "equipo": "MASTER BLACK",
+      "bolos": 8978,
+      "partidas": 51,
+      "promedio": 176.039,
+      "hdcp": 22,
+      "maxPartida": 235,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 9,
+      "posFemenina": null,
+      "jugador": "Antonio González",
+      "equipo": "BACK STRIKE BOYS",
+      "bolos": 8918,
+      "partidas": 51,
+      "promedio": 174.863,
+      "hdcp": 23,
+      "maxPartida": 236,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 10,
+      "posFemenina": null,
+      "jugador": "Leonardo Toledo",
+      "equipo": "FRIJOL CON BOLA",
+      "bolos": 9438,
+      "partidas": 54,
+      "promedio": 174.778,
+      "hdcp": 23,
+      "maxPartida": 231,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Sandra Teichgraeber",
+      "equipo": "MASTER BLACK",
+      "bolos": 1551,
+      "partidas": 9,
+      "promedio": 172.333,
+      "hdcp": 24,
+      "maxPartida": 192,
+      "genero": "F",
+      "califica": false
+    },
+    {
+      "posGeneral": 11,
+      "posFemenina": null,
+      "jugador": "Antonio Junquera JR",
+      "equipo": "NEXT",
+      "bolos": 8649,
+      "partidas": 51,
+      "promedio": 169.588,
+      "hdcp": 26,
+      "maxPartida": 223,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Antonio Toledo",
+      "equipo": "TIRAPOCO",
+      "bolos": 1694,
+      "partidas": 10,
+      "promedio": 169.4,
+      "hdcp": 26,
+      "maxPartida": 222,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": 12,
+      "posFemenina": null,
+      "jugador": "Gustavo Toledo",
+      "equipo": "TIRAPOCO",
+      "bolos": 9061,
+      "partidas": 54,
+      "promedio": 167.796,
+      "hdcp": 27,
+      "maxPartida": 237,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Luis Toledo",
+      "equipo": "TIRAPOCO",
+      "bolos": 833,
+      "partidas": 5,
+      "promedio": 166.6,
+      "hdcp": 28,
+      "maxPartida": 219,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Jose Javier Rollán",
+      "equipo": "LAS 4 JOTAS",
+      "bolos": 998,
+      "partidas": 6,
+      "promedio": 166.333,
+      "hdcp": 28,
+      "maxPartida": 188,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": 13,
+      "posFemenina": null,
+      "jugador": "Hugo Toledo JR",
+      "equipo": "TIRAPOCO",
+      "bolos": 5962,
+      "partidas": 36,
+      "promedio": 165.611,
+      "hdcp": 29,
+      "maxPartida": 225,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 14,
+      "posFemenina": null,
+      "jugador": "Nelson Estrada",
+      "equipo": "MASTER BLACK",
+      "bolos": 6955,
+      "partidas": 42,
+      "promedio": 165.595,
+      "hdcp": 29,
+      "maxPartida": 223,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": 1,
+      "jugador": "Alicia Soto",
+      "equipo": "LAS 4 JOTAS",
+      "bolos": 7374,
+      "partidas": 45,
+      "promedio": 163.867,
+      "hdcp": 30,
+      "maxPartida": 217,
+      "genero": "F",
+      "califica": true
+    },
+    {
+      "posGeneral": 15,
+      "posFemenina": null,
+      "jugador": "JB Panisales",
+      "equipo": "RX BOWL",
+      "bolos": 8696,
+      "partidas": 54,
+      "promedio": 161.037,
+      "hdcp": 32,
+      "maxPartida": 244,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Hugo Toledo Sr.",
+      "equipo": "FRIJOL CON BOLA",
+      "bolos": 478,
+      "partidas": 3,
+      "promedio": 159.333,
+      "hdcp": 33,
+      "maxPartida": 178,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": 16,
+      "posFemenina": null,
+      "jugador": "Samu Gómez",
+      "equipo": "RX BOWL",
+      "bolos": 8567,
+      "partidas": 54,
+      "promedio": 158.648,
+      "hdcp": 33,
+      "maxPartida": 233,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 17,
+      "posFemenina": null,
+      "jugador": "Servando Rey",
+      "equipo": "PIN TWISTER",
+      "bolos": 8559,
+      "partidas": 54,
+      "promedio": 158.5,
+      "hdcp": 33,
+      "maxPartida": 211,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Kathy Lusanta",
+      "equipo": "LAS 4 JOTAS",
+      "bolos": 158,
+      "partidas": 1,
+      "promedio": 158,
+      "hdcp": 34,
+      "maxPartida": 158,
+      "genero": "F",
+      "califica": false
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Dimitri Rivas",
+      "equipo": "IONICS",
+      "bolos": 3710,
+      "partidas": 24,
+      "promedio": 154.583,
+      "hdcp": 36,
+      "maxPartida": 211,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": 18,
+      "posFemenina": null,
+      "jugador": "Joseph Goodwin",
+      "equipo": "JV SQUAD",
+      "bolos": 7851,
+      "partidas": 51,
+      "promedio": 153.941,
+      "hdcp": 36,
+      "maxPartida": 214,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 19,
+      "posFemenina": null,
+      "jugador": "Fernando Barrera",
+      "equipo": "IONICS",
+      "bolos": 5991,
+      "partidas": 39,
+      "promedio": 153.615,
+      "hdcp": 37,
+      "maxPartida": 195,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 20,
+      "posFemenina": null,
+      "jugador": "Elias Guadarrama",
+      "equipo": "IONICS",
+      "bolos": 4103,
+      "partidas": 27,
+      "promedio": 151.963,
+      "hdcp": 38,
+      "maxPartida": 210,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 21,
+      "posFemenina": null,
+      "jugador": "Manuel Galán",
+      "equipo": "BACK STRIKE BOYS",
+      "bolos": 7611,
+      "partidas": 51,
+      "promedio": 149.235,
+      "hdcp": 39,
+      "maxPartida": 189,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 22,
+      "posFemenina": null,
+      "jugador": "Antonio Junquera SR",
+      "equipo": "NEXT",
+      "bolos": 7440,
+      "partidas": 51,
+      "promedio": 145.882,
+      "hdcp": 42,
+      "maxPartida": 195,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 23,
+      "posFemenina": null,
+      "jugador": "David Velasquez",
+      "equipo": "LIVIN'ON A SPARE",
+      "bolos": 6621,
+      "partidas": 51,
+      "promedio": 129.824,
+      "hdcp": 49,
+      "maxPartida": 179,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": 2,
+      "jugador": "Victoria Goodwin",
+      "equipo": "JV SQUAD",
+      "bolos": 6186,
+      "partidas": 51,
+      "promedio": 121.294,
+      "hdcp": 55,
+      "maxPartida": 173,
+      "genero": "F",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": 3,
+      "jugador": "Faviana Velasquez",
+      "equipo": "LIVIN'ON A SPARE",
+      "bolos": 5121,
+      "partidas": 51,
+      "promedio": 100.412,
+      "hdcp": 55,
+      "maxPartida": 123,
+      "genero": "F",
+      "califica": true
+    }
+  ]
+}

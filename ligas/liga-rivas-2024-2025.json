@@ -1,0 +1,19 @@
+{
+  "slug": "liga-rivas-2024-2025",
+  "name": "Liga Rivas 2024-2025",
+  "venue": "Rivas Vaciamadrid",
+  "season": "2024-2025",
+  "status": "finished",
+  "currentRound": 0,
+  "totalRounds": 0,
+  "records": {},
+  "nextJornada": {
+    "announcement": "",
+    "date": "",
+    "libran": []
+  },
+  "zonaCampeonato": [],
+  "zonaConsolacion": [],
+  "jornadaResults": {},
+  "individualStandings": []
+}

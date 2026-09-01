@@ -1,0 +1,19 @@
+{
+  "slug": "liga-alegra-2024-2025",
+  "name": "Liga Alegra 2024-2025",
+  "venue": "Por confirmar",
+  "season": "2024-2025",
+  "status": "finished",
+  "currentRound": 0,
+  "totalRounds": 0,
+  "records": {},
+  "nextJornada": {
+    "announcement": "",
+    "date": "",
+    "libran": []
+  },
+  "zonaCampeonato": [],
+  "zonaConsolacion": [],
+  "jornadaResults": {},
+  "individualStandings": []
+}

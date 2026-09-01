@@ -1,0 +1,573 @@
+{
+  "slug": "liga-rivas-2025",
+  "name": "Liga Rivas 2025-2026",
+  "venue": "Rivas Vaciamadrid",
+  "season": "2025-2026",
+  "status": "finished",
+  "currentRound": 10,
+  "totalRounds": 10,
+  "records": {
+    "femenino": {
+      "jugadora": "Toni Gutierrez",
+      "score": 223
+    },
+    "masculino": {
+      "jugador": "Eladio Pérez",
+      "score": 245
+    }
+  },
+  "nextJornada": {
+    "announcement": "Próxima temporada: XVI Liga Bolo 11",
+    "date": "Septiembre 2026",
+    "libran": []
+  },
+  "zonaCampeonato": [
+    {
+      "pos": 1,
+      "equipo": "LOS GUTI",
+      "bolos": 15870,
+      "partidas": 96,
+      "promedio": 165.313,
+      "puntos": 320
+    },
+    {
+      "pos": 2,
+      "equipo": "LOS PÉREZ",
+      "bolos": 15200,
+      "partidas": 96,
+      "promedio": 158.333,
+      "puntos": 260
+    },
+    {
+      "pos": 3,
+      "equipo": "B-ALL IN",
+      "bolos": 15062,
+      "partidas": 96,
+      "promedio": 156.896,
+      "puntos": 220
+    },
+    {
+      "pos": 4,
+      "equipo": "LOS VENGABOWLERS",
+      "bolos": 15351,
+      "partidas": 96,
+      "promedio": 159.906,
+      "puntos": 180
+    },
+    {
+      "pos": 5,
+      "equipo": "PICAPINS",
+      "bolos": 14676,
+      "partidas": 96,
+      "promedio": 152.875,
+      "puntos": 160
+    },
+    {
+      "pos": 6,
+      "equipo": "BOLAS FUERA",
+      "bolos": 15085,
+      "partidas": 96,
+      "promedio": 157.135,
+      "puntos": 140
+    }
+  ],
+  "zonaConsolacion": [
+    {
+      "pos": 1,
+      "equipo": "IRON PIN",
+      "bolos": 14407,
+      "partidas": 96,
+      "promedio": 150.073,
+      "puntos": 120
+    },
+    {
+      "pos": 2,
+      "equipo": "LEYENDAS",
+      "bolos": 13713,
+      "partidas": 96,
+      "promedio": 142.844,
+      "puntos": 110
+    },
+    {
+      "pos": 3,
+      "equipo": "THUNDERBALLS",
+      "bolos": 14247,
+      "partidas": 96,
+      "promedio": 148.406,
+      "puntos": 100
+    },
+    {
+      "pos": 4,
+      "equipo": "TORPE2",
+      "bolos": 14138,
+      "partidas": 96,
+      "promedio": 147.271,
+      "puntos": 0
+    },
+    {
+      "pos": 5,
+      "equipo": "MARINES ESPACIALES",
+      "bolos": 13547,
+      "partidas": 96,
+      "promedio": 141.115,
+      "puntos": 0
+    },
+    {
+      "pos": 6,
+      "equipo": "LOS CAMALEONES",
+      "bolos": 13250,
+      "partidas": 96,
+      "promedio": 138.021,
+      "puntos": 0
+    }
+  ],
+  "jornadaResults": {
+    "numero": 5,
+    "vuelta": 2,
+    "campeonato": [
+      {
+        "equipoA": "LOS GUTI",
+        "puntosA": 11000,
+        "equipoB": "BOLAS FUERA",
+        "puntosB": 7000
+      },
+      {
+        "equipoA": "PICAPINS",
+        "puntosA": 10000,
+        "equipoB": "LOS VENGABOWLERS",
+        "puntosB": 8000
+      },
+      {
+        "equipoA": "LOS PEREZ",
+        "puntosA": 9000,
+        "equipoB": "B-ALL IN",
+        "puntosB": 9000
+      }
+    ],
+    "consolacion": [
+      {
+        "equipoA": "LEYENDAS",
+        "puntosA": 8500,
+        "equipoB": "THUNDERBALLS",
+        "puntosB": 9500
+      },
+      {
+        "equipoA": "TORPE2",
+        "puntosA": 8000,
+        "equipoB": "IRON PIN",
+        "puntosB": 10000
+      },
+      {
+        "equipoA": "MARINES ESPACIALES",
+        "puntosA": 10000,
+        "equipoB": "LOS CAMALEONES",
+        "puntosB": 8000
+      }
+    ]
+  },
+  "individualStandings": [
+    {
+      "posGeneral": 1,
+      "posFemenina": null,
+      "jugador": "Anto Dos Ramos",
+      "equipo": "BOLAS FUERA",
+      "bolos": 6677,
+      "partidas": 36,
+      "promedio": 185.472,
+      "hdcp": 16,
+      "maxPartida": 243,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 2,
+      "posFemenina": null,
+      "jugador": "Eladio Pérez",
+      "equipo": "LOS PÉREZ",
+      "bolos": 8884,
+      "partidas": 48,
+      "promedio": 185.083,
+      "hdcp": 16,
+      "maxPartida": 245,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 3,
+      "posFemenina": null,
+      "jugador": "Luis Platas",
+      "equipo": "LOS GUTI",
+      "bolos": 7860,
+      "partidas": 46,
+      "promedio": 170.87,
+      "hdcp": 25,
+      "maxPartida": 223,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 4,
+      "posFemenina": null,
+      "jugador": "David Benavente",
+      "equipo": "LOS VENGABOWLERS",
+      "bolos": 8089,
+      "partidas": 48,
+      "promedio": 168.521,
+      "hdcp": 27,
+      "maxPartida": 229,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 5,
+      "posFemenina": null,
+      "jugador": "Jose García",
+      "equipo": "TORPE2",
+      "bolos": 5727,
+      "partidas": 34,
+      "promedio": 168.441,
+      "hdcp": 27,
+      "maxPartida": 222,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 6,
+      "posFemenina": null,
+      "jugador": "Jon Woodward",
+      "equipo": "THUNDERBALLS",
+      "bolos": 8082,
+      "partidas": 48,
+      "promedio": 168.375,
+      "hdcp": 27,
+      "maxPartida": 213,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 7,
+      "posFemenina": null,
+      "jugador": "Roberto Molina",
+      "equipo": "BOLAS FUERA",
+      "bolos": 4468,
+      "partidas": 27,
+      "promedio": 165.481,
+      "hdcp": 29,
+      "maxPartida": 202,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 8,
+      "posFemenina": null,
+      "jugador": "Juan Platas",
+      "equipo": "LOS GUTI",
+      "bolos": 7398,
+      "partidas": 46,
+      "promedio": 160.826,
+      "hdcp": 32,
+      "maxPartida": 201,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 9,
+      "posFemenina": null,
+      "jugador": "Juan Ramón Bedia",
+      "equipo": "B-ALL IN",
+      "bolos": 7585,
+      "partidas": 48,
+      "promedio": 158.021,
+      "hdcp": 34,
+      "maxPartida": 226,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 10,
+      "posFemenina": null,
+      "jugador": "José A. Oliveros",
+      "equipo": "IRON PIN",
+      "bolos": 7532,
+      "partidas": 48,
+      "promedio": 156.917,
+      "hdcp": 35,
+      "maxPartida": 209,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 11,
+      "posFemenina": null,
+      "jugador": "Arturo Arik",
+      "equipo": "B-ALL IN",
+      "bolos": 7477,
+      "partidas": 48,
+      "promedio": 155.771,
+      "hdcp": 35,
+      "maxPartida": 189,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 12,
+      "posFemenina": null,
+      "jugador": "Nacho García",
+      "equipo": "TORPE2",
+      "bolos": 4348,
+      "partidas": 28,
+      "promedio": 155.286,
+      "hdcp": 36,
+      "maxPartida": 217,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 13,
+      "posFemenina": null,
+      "jugador": "Sergio Gómez",
+      "equipo": "PICAPINS",
+      "bolos": 7422,
+      "partidas": 48,
+      "promedio": 154.625,
+      "hdcp": 36,
+      "maxPartida": 204,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 14,
+      "posFemenina": null,
+      "jugador": "Sergio García",
+      "equipo": "LOS CAMALEONES",
+      "bolos": 6770,
+      "partidas": 44,
+      "promedio": 153.864,
+      "hdcp": 36,
+      "maxPartida": 213,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "TONI GUTIERREZ",
+      "equipo": "LOS GUTI",
+      "bolos": 612,
+      "partidas": 4,
+      "promedio": 153,
+      "hdcp": 34,
+      "maxPartida": 223,
+      "genero": "F",
+      "califica": false
+    },
+    {
+      "posGeneral": 15,
+      "posFemenina": null,
+      "jugador": "Pablo Marín",
+      "equipo": "MARINES ESPACIALES",
+      "bolos": 7305,
+      "partidas": 48,
+      "promedio": 152.188,
+      "hdcp": 38,
+      "maxPartida": 197,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": 1,
+      "jugador": "SILVIA BENAVENTE",
+      "equipo": "LOS VENGABOWLERS",
+      "bolos": 7262,
+      "partidas": 48,
+      "promedio": 151.292,
+      "hdcp": 38,
+      "maxPartida": 187,
+      "genero": "F",
+      "califica": true
+    },
+    {
+      "posGeneral": 16,
+      "posFemenina": null,
+      "jugador": "Ricardo Sánchez",
+      "equipo": "PICAPINS",
+      "bolos": 7254,
+      "partidas": 48,
+      "promedio": 151.125,
+      "hdcp": 38,
+      "maxPartida": 193,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 17,
+      "posFemenina": null,
+      "jugador": "Rafa Rico",
+      "equipo": "LEYENDAS",
+      "bolos": 7111,
+      "partidas": 48,
+      "promedio": 148.146,
+      "hdcp": 40,
+      "maxPartida": 201,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 18,
+      "posFemenina": null,
+      "jugador": "Néstor Muñoz",
+      "equipo": "IRON PIN",
+      "bolos": 6875,
+      "partidas": 48,
+      "promedio": 143.229,
+      "hdcp": 43,
+      "maxPartida": 181,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Josemi García",
+      "equipo": "TORPE2",
+      "bolos": 1103,
+      "partidas": 8,
+      "promedio": 137.875,
+      "hdcp": 47,
+      "maxPartida": 189,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": 19,
+      "posFemenina": null,
+      "jugador": "Alex Rico",
+      "equipo": "LEYENDAS",
+      "bolos": 6602,
+      "partidas": 48,
+      "promedio": 137.542,
+      "hdcp": 47,
+      "maxPartida": 177,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Alex Scheide",
+      "equipo": "THUNDERBALLS",
+      "bolos": 1191,
+      "partidas": 9,
+      "promedio": 132.333,
+      "hdcp": 49,
+      "maxPartida": 164,
+      "genero": "M",
+      "califica": false
+    },
+    {
+      "posGeneral": 20,
+      "posFemenina": null,
+      "jugador": "José María Pérez",
+      "equipo": "LOS PÉREZ",
+      "bolos": 6316,
+      "partidas": 48,
+      "promedio": 131.583,
+      "hdcp": 49,
+      "maxPartida": 196,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 21,
+      "posFemenina": null,
+      "jugador": "Arturo Marín",
+      "equipo": "MARINES ESPACIALES",
+      "bolos": 6242,
+      "partidas": 48,
+      "promedio": 130.042,
+      "hdcp": 49,
+      "maxPartida": 175,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 22,
+      "posFemenina": null,
+      "jugador": "José A. Gómez",
+      "equipo": "LOS CAMALEONES",
+      "bolos": 4778,
+      "partidas": 37,
+      "promedio": 129.135,
+      "hdcp": 49,
+      "maxPartida": 154,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 23,
+      "posFemenina": null,
+      "jugador": "Melchor Torres",
+      "equipo": "THUNDERBALLS",
+      "bolos": 4974,
+      "partidas": 39,
+      "promedio": 127.538,
+      "hdcp": 49,
+      "maxPartida": 181,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": 24,
+      "posFemenina": null,
+      "jugador": "Chuvi Chuvieco",
+      "equipo": "BOLAS FUERA",
+      "bolos": 3940,
+      "partidas": 33,
+      "promedio": 119.394,
+      "hdcp": 49,
+      "maxPartida": 171,
+      "genero": "M",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": 2,
+      "jugador": "LORETO GARCÍA",
+      "equipo": "TORPE2",
+      "bolos": 2685,
+      "partidas": 23,
+      "promedio": 116.739,
+      "hdcp": 55,
+      "maxPartida": 154,
+      "genero": "F",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": 3,
+      "jugador": "YOLANDA MONTEJANO",
+      "equipo": "LOS CAMALEONES",
+      "bolos": 1702,
+      "partidas": 15,
+      "promedio": 113.467,
+      "hdcp": 55,
+      "maxPartida": 134,
+      "genero": "F",
+      "califica": true
+    },
+    {
+      "posGeneral": null,
+      "posFemenina": null,
+      "jugador": "Jesús Hurtado",
+      "equipo": "TORPE2",
+      "bolos": 275,
+      "partidas": 3,
+      "promedio": 91.667,
+      "hdcp": 49,
+      "maxPartida": 97,
+      "genero": "M",
+      "califica": false
+    }
+  ]
+}
