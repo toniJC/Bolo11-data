@@ -5,5 +5,114 @@
   "season": "2026-2027",
   "type": "liga",
   "status": "upcoming",
-  "eventDates": "24 Sep 2026"
+  "eventDates": "17 Sep 2026",
+  "currentRound": 0,
+  "totalRounds": 0,
+  "records": {},
+  "nextJornada": {
+    "announcement": "",
+    "date": "Jueves 17 de septiembre de 2026 · 20:50h",
+    "libran": []
+  },
+  "zonaCampeonato": [
+    {
+      "pos": 1,
+      "equipo": "PLENO o PLOMO",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 2,
+      "equipo": "RX BOWL",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 3,
+      "equipo": "IONICS",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 4,
+      "equipo": "LUCKY STRIKE",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 5,
+      "equipo": "PIN CUANTICO",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 6,
+      "equipo": "BeCUADRO",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 7,
+      "equipo": "PIN TWISTER",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 8,
+      "equipo": "NEXT",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 9,
+      "equipo": "FRIJOL CON BOLA",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 10,
+      "equipo": "TIRAPOCO",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 11,
+      "equipo": "MASTER BLACK",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    },
+    {
+      "pos": 12,
+      "equipo": "BACKSTRIKE BOYS",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0
+    }
+  ],
+  "zonaConsolacion": [],
+  "individualStandings": [],
+  "jornadaResults": []
 }
