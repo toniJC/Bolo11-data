@@ -130,7 +130,7 @@
       "hdcp": 2,
       "maxPartida": 226,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 2,
@@ -143,7 +143,7 @@
       "hdcp": 2,
       "maxPartida": 220,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 3,
@@ -156,7 +156,7 @@
       "hdcp": 20,
       "maxPartida": 245,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 4,
@@ -169,7 +169,7 @@
       "hdcp": 16,
       "maxPartida": 218,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 5,
@@ -182,7 +182,7 @@
       "hdcp": 1,
       "maxPartida": 193,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 6,
@@ -195,7 +195,7 @@
       "hdcp": 23,
       "maxPartida": 188,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 7,
@@ -208,7 +208,7 @@
       "hdcp": 26,
       "maxPartida": 194,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 8,
@@ -221,7 +221,7 @@
       "hdcp": 29,
       "maxPartida": 180,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 9,
@@ -234,7 +234,7 @@
       "hdcp": 31,
       "maxPartida": 169,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 10,
@@ -247,7 +247,7 @@
       "hdcp": 21,
       "maxPartida": 181,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 11,
@@ -260,7 +260,7 @@
       "hdcp": 21,
       "maxPartida": 175,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 12,
@@ -273,7 +273,7 @@
       "hdcp": 40,
       "maxPartida": 211,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 13,
@@ -286,7 +286,7 @@
       "hdcp": 19,
       "maxPartida": 170,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 14,
@@ -299,7 +299,7 @@
       "hdcp": 29,
       "maxPartida": 188,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 15,
@@ -312,7 +312,7 @@
       "hdcp": 28,
       "maxPartida": 173,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 16,
@@ -325,7 +325,7 @@
       "hdcp": 21,
       "maxPartida": 168,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 17,
@@ -338,7 +338,7 @@
       "hdcp": 36,
       "maxPartida": 175,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 18,
@@ -351,7 +351,7 @@
       "hdcp": 34,
       "maxPartida": 154,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 19,
@@ -364,7 +364,7 @@
       "hdcp": 34,
       "maxPartida": 158,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 20,
@@ -377,7 +377,7 @@
       "hdcp": 37,
       "maxPartida": 149,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 21,
@@ -390,7 +390,7 @@
       "hdcp": 40,
       "maxPartida": 179,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 22,
@@ -403,7 +403,7 @@
       "hdcp": 27,
       "maxPartida": 185,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 23,
@@ -416,7 +416,7 @@
       "hdcp": 46,
       "maxPartida": 145,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": 24,
@@ -429,7 +429,7 @@
       "hdcp": 49,
       "maxPartida": 138,
       "genero": "M",
-      "califica": false
+      "califica": true
     },
     {
       "posGeneral": null,
@@ -440,7 +440,7 @@
       "partidas": 0,
       "promedio": 234.333,
       "hdcp": -16,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "M",
       "califica": false
     },
@@ -453,7 +453,7 @@
       "partidas": 0,
       "promedio": 207.646,
       "hdcp": 2,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "M",
       "califica": false
     },
@@ -466,7 +466,7 @@
       "partidas": 0,
       "promedio": 185.979,
       "hdcp": 16,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "M",
       "califica": false
     },
@@ -479,7 +479,7 @@
       "partidas": 0,
       "promedio": 174.863,
       "hdcp": 23,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "M",
       "califica": false
     },
@@ -492,7 +492,7 @@
       "partidas": 0,
       "promedio": 172.333,
       "hdcp": 24,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "F",
       "califica": false
     },
@@ -505,7 +505,7 @@
       "partidas": 0,
       "promedio": 169.333,
       "hdcp": 26,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "M",
       "califica": false
     },
@@ -518,7 +518,7 @@
       "partidas": 0,
       "promedio": 165.611,
       "hdcp": 29,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "M",
       "califica": false
     },
@@ -531,7 +531,7 @@
       "partidas": 0,
       "promedio": 163.417,
       "hdcp": 30,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "M",
       "califica": false
     },
@@ -544,7 +544,7 @@
       "partidas": 0,
       "promedio": 158.968,
       "hdcp": 33,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "M",
       "califica": false
     },
@@ -557,7 +557,7 @@
       "partidas": 0,
       "promedio": 145.001,
       "hdcp": 42,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "M",
       "califica": false
     },
@@ -570,7 +570,7 @@
       "partidas": 0,
       "promedio": 145.001,
       "hdcp": 42,
-      "maxPartida": 0,
+      "maxPartida": null,
       "genero": "F",
       "califica": false
     }
