@@ -22,6 +22,11 @@ En el fichero de la liga, actualiza:
 ### Fijos (no tocar durante la temporada)
 - `slug`, `name`, `venue`, `season`, `type`, `gallery`.
 
+### Calendario (PDF)
+- Cada liga puede tener su calendario en `calendarios/<slug>.pdf` (p. ej. `calendarios/liga-rivas-2026.pdf`).
+- Para actualizarlo, sustituye el fichero manteniendo el mismo nombre.
+- Si no existe el PDF, la web simplemente no muestra la sección de calendario.
+
 ## Cómo publicar
 1. Edita el fichero (web de GitHub o git).
 2. Comenta el cambio (p. ej. «Jornada 8 — Liga Vaguada»).
