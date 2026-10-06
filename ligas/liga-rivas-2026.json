@@ -4,189 +4,132 @@
   "venue": "Rivas Vaciamadrid",
   "season": "2026-2027",
   "type": "liga",
-  "status": "upcoming",
+  "status": "active",
   "eventDates": "21 Sep 2026",
-  "currentRound": 0,
+  "currentRound": 2,
   "totalRounds": 0,
   "records": {},
   "nextJornada": {
-    "announcement": "1ª JORNADA",
-    "date": "Lunes 21 de septiembre de 2026 · 20:50h",
-    "libran": [
-      "TORPE2",
-      "LOS GUTI",
-      "LOS CAMALEONES",
-      "IRON PIN"
-    ]
+    "announcement": "2ª Y 3ª JORNADAS",
+    "date": "Lunes 5 de octubre de 2026",
+    "libran": []
   },
   "zonaCampeonato": [
     {
       "pos": 1,
-      "equipo": "LEYENDAS",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "equipo": "LOS ROMPE FRENOS",
+      "bolos": 1704,
+      "partidas": 12,
+      "promedio": 142.0,
+      "puntos": 11.5
     },
     {
       "pos": 2,
-      "equipo": "EQUIPO VELA",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "equipo": "TENEMOS BOLAS",
+      "bolos": 1956,
+      "partidas": 12,
+      "promedio": 163.0,
+      "puntos": 11.0
     },
     {
       "pos": 3,
-      "equipo": "LOS PÉREZ",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "equipo": "MARINES ESPACIALES",
+      "bolos": 1727,
+      "partidas": 12,
+      "promedio": 143.917,
+      "puntos": 11.0
     },
     {
       "pos": 4,
-      "equipo": "LOS ROMPE FRENOS",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "equipo": "LOS PÉREZ",
+      "bolos": 1865,
+      "partidas": 12,
+      "promedio": 155.417,
+      "puntos": 10.0
     },
     {
       "pos": 5,
       "equipo": "BOLAS FUERA",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "bolos": 1276,
+      "partidas": 6,
+      "promedio": 212.667,
+      "puntos": 7.0
     },
     {
       "pos": 6,
-      "equipo": "LOS PICAPIEDRA",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "equipo": "LEYENDAS",
+      "bolos": 820,
+      "partidas": 6,
+      "promedio": 136.667,
+      "puntos": 7.0
     },
     {
       "pos": 7,
-      "equipo": "MARINES ESPACIALES",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "equipo": "LOS PICAPIEDRA",
+      "bolos": 1214,
+      "partidas": 12,
+      "promedio": 101.167,
+      "puntos": 6.5
     },
     {
       "pos": 8,
-      "equipo": "TENEMOS BOLAS",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "equipo": "B-ALL IN",
+      "bolos": 1196,
+      "partidas": 6,
+      "promedio": 199.333,
+      "puntos": 6.0
     },
     {
       "pos": 9,
-      "equipo": "B-ALL IN",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "equipo": "EQUIPO VELA",
+      "bolos": 1147,
+      "partidas": 12,
+      "promedio": 95.583,
+      "puntos": 6.0
     },
     {
       "pos": 10,
-      "equipo": "THUNDERBALLS",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "equipo": "LOS CAMALEONES",
+      "bolos": 921,
+      "partidas": 6,
+      "promedio": 153.5,
+      "puntos": 5.75
     },
     {
       "pos": 11,
-      "equipo": "TORPE2",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "equipo": "IRON PIN",
+      "bolos": 827,
+      "partidas": 6,
+      "promedio": 137.833,
+      "puntos": 4.25
     },
     {
       "pos": 12,
+      "equipo": "THUNDERBALLS",
+      "bolos": 853,
+      "partidas": 6,
+      "promedio": 142.167,
+      "puntos": 4.0
+    },
+    {
+      "pos": 13,
+      "equipo": "ARIES",
+      "bolos": 0,
+      "partidas": 0,
+      "promedio": 0,
+      "puntos": 0.0
+    },
+    {
+      "pos": 14,
       "equipo": "LOS GUTI",
       "bolos": 0,
       "partidas": 0,
       "promedio": 0,
-      "puntos": 0
-    },
-    {
-      "pos": 13,
-      "equipo": "LOS CAMALEONES",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
-    },
-    {
-      "pos": 14,
-      "equipo": "IRON PIN",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0
+      "puntos": 0.0
     }
   ],
   "zonaConsolacion": [],
   "individualStandings": [
-    {
-      "posGeneral": null,
-      "posFemenina": null,
-      "jugador": "LORETO GARCÍA",
-      "equipo": "TORPE2",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 116.739,
-      "hdcp": 55,
-      "maxPartida": null,
-      "genero": "F",
-      "califica": false
-    },
-    {
-      "posGeneral": null,
-      "posFemenina": null,
-      "jugador": "Nacho García",
-      "equipo": "TORPE2",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 155.286,
-      "hdcp": 36,
-      "maxPartida": null,
-      "genero": "M",
-      "califica": false
-    },
-    {
-      "posGeneral": null,
-      "posFemenina": null,
-      "jugador": "José García",
-      "equipo": "TORPE2",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 168.441,
-      "hdcp": 27,
-      "maxPartida": null,
-      "genero": "M",
-      "califica": false
-    },
-    {
-      "posGeneral": null,
-      "posFemenina": null,
-      "jugador": "Josemi García",
-      "equipo": "TORPE2",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 137.875,
-      "hdcp": 47,
-      "maxPartida": null,
-      "genero": "M",
-      "califica": false
-    },
     {
       "posGeneral": null,
       "posFemenina": null,
@@ -656,5 +599,78 @@
       "califica": false
     }
   ],
-  "jornadaResults": []
+  "jornadaResults": [
+    {
+      "numero": 1,
+      "vuelta": 1,
+      "maxPuntosPorPartido": 10,
+      "campeonato": [
+        {
+          "equipoA": "LEYENDAS",
+          "puntosA": 7.0,
+          "equipoB": "EQUIPO VELA",
+          "puntosB": 3.0
+        },
+        {
+          "equipoA": "LOS PÉREZ",
+          "puntosA": 5.5,
+          "equipoB": "LOS ROMPE FRENOS",
+          "puntosB": 4.5
+        },
+        {
+          "equipoA": "LOS PICAPIEDRA",
+          "puntosA": 3.0,
+          "equipoB": "BOLAS FUERA",
+          "puntosB": 7.0
+        },
+        {
+          "equipoA": "MARINES ESPACIALES",
+          "puntosA": 4.5,
+          "equipoB": "TENEMOS BOLAS",
+          "puntosB": 5.5
+        },
+        {
+          "equipoA": "B-ALL IN",
+          "puntosA": 6.0,
+          "equipoB": "THUNDERBALLS",
+          "puntosB": 4.0
+        },
+        {
+          "equipoA": "LOS CAMALEONES",
+          "puntosA": 5.75,
+          "equipoB": "IRON PIN",
+          "puntosB": 4.25
+        }
+      ],
+      "consolacion": [],
+      "libraron": []
+    },
+    {
+      "numero": 2,
+      "vuelta": 1,
+      "maxPuntosPorPartido": 10,
+      "campeonato": [
+        {
+          "equipoA": "MARINES ESPACIALES",
+          "puntosA": 6.5,
+          "equipoB": "LOS PICAPIEDRA",
+          "puntosB": 3.5
+        },
+        {
+          "equipoA": "EQUIPO VELA",
+          "puntosA": 3.0,
+          "equipoB": "LOS ROMPE FRENOS",
+          "puntosB": 7.0
+        },
+        {
+          "equipoA": "LOS PÉREZ",
+          "puntosA": 4.5,
+          "equipoB": "TENEMOS BOLAS",
+          "puntosB": 5.5
+        }
+      ],
+      "consolacion": [],
+      "libraron": []
+    }
+  ]
 }
