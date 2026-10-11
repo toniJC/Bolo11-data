@@ -6,7 +6,7 @@
   "type": "liga",
   "status": "active",
   "eventDates": "17 Sep 2026",
-  "currentRound": 1,
+  "currentRound": 2,
   "totalRounds": 11,
   "records": {
     "masculino": {
@@ -15,106 +15,106 @@
     }
   },
   "nextJornada": {
-    "announcement": "Segunda Jornada",
-    "date": "Jueves 24 de septiembre de 2026 · 20:50h",
+    "announcement": "Tercera Jornada",
+    "date": "Jueves 8 de octubre de 2026",
     "libran": []
   },
   "zonaCampeonato": [
     {
       "pos": 1,
       "equipo": "MASTER BLACK",
-      "bolos": 1079,
-      "partidas": 6,
-      "promedio": 179.833,
-      "puntos": 6.5
+      "bolos": 2142,
+      "partidas": 12,
+      "promedio": 178.5,
+      "puntos": 12.5
     },
     {
       "pos": 2,
-      "equipo": "TIRAPOCO",
-      "bolos": 1053,
-      "partidas": 6,
-      "promedio": 175.5,
-      "puntos": 6.5
+      "equipo": "LUCKY STRIKE",
+      "bolos": 2167,
+      "partidas": 12,
+      "promedio": 180.583,
+      "puntos": 12.0
     },
     {
       "pos": 3,
       "equipo": "PLENO o PLOMO",
-      "bolos": 1106,
-      "partidas": 6,
-      "promedio": 184.333,
-      "puntos": 6.0
+      "bolos": 2163,
+      "partidas": 12,
+      "promedio": 180.25,
+      "puntos": 11.5
     },
     {
       "pos": 4,
-      "equipo": "LUCKY STRIKE",
-      "bolos": 1023,
-      "partidas": 6,
-      "promedio": 170.5,
-      "puntos": 6.0
+      "equipo": "PIN TWISTER",
+      "bolos": 2011,
+      "partidas": 12,
+      "promedio": 167.583,
+      "puntos": 10.0
     },
     {
       "pos": 5,
       "equipo": "NEXT",
-      "bolos": 990,
-      "partidas": 6,
-      "promedio": 165.0,
-      "puntos": 5.5
+      "bolos": 1950,
+      "partidas": 12,
+      "promedio": 162.5,
+      "puntos": 10.0
     },
     {
       "pos": 6,
-      "equipo": "PIN CUANTICO",
-      "bolos": 867,
-      "partidas": 6,
-      "promedio": 144.5,
-      "puntos": 5.5
+      "equipo": "BeCUADRO",
+      "bolos": 2180,
+      "partidas": 12,
+      "promedio": 181.667,
+      "puntos": 9.0
     },
     {
       "pos": 7,
-      "equipo": "BeCUADRO",
-      "bolos": 997,
-      "partidas": 6,
-      "promedio": 166.167,
-      "puntos": 4.5
+      "equipo": "FRIJOL CON BOLA",
+      "bolos": 1828,
+      "partidas": 12,
+      "promedio": 152.333,
+      "puntos": 7.5
     },
     {
       "pos": 8,
-      "equipo": "PIN TWISTER",
-      "bolos": 936,
-      "partidas": 6,
-      "promedio": 156.0,
-      "puntos": 4.5
+      "equipo": "BACKSTRIKE BOYS",
+      "bolos": 1645,
+      "partidas": 12,
+      "promedio": 137.083,
+      "puntos": 7.5
     },
     {
       "pos": 9,
+      "equipo": "TIRAPOCO",
+      "bolos": 2202,
+      "partidas": 12,
+      "promedio": 183.5,
+      "puntos": 6.5
+    },
+    {
+      "pos": 10,
       "equipo": "RX BOWL",
       "bolos": 952,
       "partidas": 6,
       "promedio": 158.667,
-      "puntos": 4.0
+      "puntos": 6.0
     },
     {
-      "pos": 10,
+      "pos": 11,
+      "equipo": "PIN CUANTICO",
+      "bolos": 1966,
+      "partidas": 12,
+      "promedio": 163.833,
+      "puntos": 5.5
+    },
+    {
+      "pos": 12,
       "equipo": "IONICS",
       "bolos": 898,
       "partidas": 6,
       "promedio": 149.667,
       "puntos": 4.0
-    },
-    {
-      "pos": 11,
-      "equipo": "FRIJOL CON BOLA",
-      "bolos": 868,
-      "partidas": 6,
-      "promedio": 144.667,
-      "puntos": 3.5
-    },
-    {
-      "pos": 12,
-      "equipo": "BACKSTRIKE BOYS",
-      "bolos": 788,
-      "partidas": 6,
-      "promedio": 131.333,
-      "puntos": 3.5
     }
   ],
   "zonaConsolacion": [],
@@ -616,6 +616,39 @@
           "puntosA": 6.5,
           "equipoB": "BACKSTRIKE BOYS",
           "puntosB": 3.5
+        }
+      ],
+      "consolacion": [],
+      "libraron": []
+    },
+    {
+      "numero": 2,
+      "vuelta": 1,
+      "maxPuntosPorPartido": 10,
+      "campeonato": [
+        {
+          "equipoA": "FRIJOL CON BOLA",
+          "puntosA": 4.0,
+          "equipoB": "MASTER BLACK",
+          "puntosB": 6.0
+        },
+        {
+          "equipoA": "BACKSTRIKE BOYS",
+          "puntosA": 4.0,
+          "equipoB": "LUCKY STRIKE",
+          "puntosB": 6.0
+        },
+        {
+          "equipoA": "BeCUADRO",
+          "puntosA": 4.5,
+          "equipoB": "PIN TWISTER",
+          "puntosB": 5.5
+        },
+        {
+          "equipoA": "PLENO o PLOMO",
+          "puntosA": 5.5,
+          "equipoB": "NEXT",
+          "puntosB": 4.5
         }
       ],
       "consolacion": [],
