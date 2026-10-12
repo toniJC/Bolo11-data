@@ -38,14 +38,6 @@
     },
     {
       "pos": 3,
-      "equipo": "RX BOWL",
-      "bolos": 3155,
-      "partidas": 18,
-      "promedio": 175.278,
-      "puntos": 17.0
-    },
-    {
-      "pos": 4,
       "equipo": "PLENO o PLOMO",
       "bolos": 3259,
       "partidas": 18,
@@ -53,7 +45,7 @@
       "puntos": 16.0
     },
     {
-      "pos": 5,
+      "pos": 4,
       "equipo": "LUCKY STRIKE",
       "bolos": 3208,
       "partidas": 18,
@@ -61,7 +53,7 @@
       "puntos": 16.0
     },
     {
-      "pos": 6,
+      "pos": 5,
       "equipo": "PIN TWISTER",
       "bolos": 3012,
       "partidas": 18,
@@ -69,7 +61,7 @@
       "puntos": 16.0
     },
     {
-      "pos": 7,
+      "pos": 6,
       "equipo": "BeCUADRO",
       "bolos": 3396,
       "partidas": 18,
@@ -77,20 +69,28 @@
       "puntos": 15.5
     },
     {
-      "pos": 8,
-      "equipo": "PIN CUANTICO",
-      "bolos": 3062,
-      "partidas": 18,
-      "promedio": 170.111,
-      "puntos": 15.5
-    },
-    {
-      "pos": 9,
+      "pos": 7,
       "equipo": "NEXT",
       "bolos": 2989,
       "partidas": 18,
       "promedio": 166.056,
       "puntos": 15.5
+    },
+    {
+      "pos": 8,
+      "equipo": "RX BOWL",
+      "bolos": 3155,
+      "partidas": 18,
+      "promedio": 175.278,
+      "puntos": 15.0
+    },
+    {
+      "pos": 9,
+      "equipo": "PIN CUANTICO",
+      "bolos": 3062,
+      "partidas": 18,
+      "promedio": 170.111,
+      "puntos": 14.5
     },
     {
       "pos": 10,
@@ -603,6 +603,12 @@
           "puntosA": 4.0,
           "equipoB": "TIRAPOCO",
           "puntosB": 6.0
+        },
+        {
+          "equipoA": "PIN CUANTICO",
+          "puntosA": 4.5,
+          "equipoB": "RX BOWL",
+          "puntosB": 5.5
         }
       ],
       "consolacion": [],
@@ -695,62 +701,102 @@
     "clasificacion": [
       {
         "pos": 1,
-        "equipo": "MASTER BLACK",
-        "puntos": 12
+        "equipo": "TIRAPOCO",
+        "parejas": 13,
+        "individual": 17,
+        "serie": 5,
+        "puntos": 35,
+        "importe": "65 €"
       },
       {
         "pos": 2,
-        "equipo": "PLENO o PLOMO",
-        "puntos": 10
+        "equipo": "PIN CUANTICO",
+        "parejas": 5,
+        "individual": 7,
+        "serie": 7,
+        "puntos": 19,
+        "importe": "25 €"
       },
       {
         "pos": 3,
-        "equipo": "NEXT",
-        "puntos": 9
+        "equipo": "MASTER BLACK",
+        "parejas": 8,
+        "individual": 6,
+        "serie": 5,
+        "puntos": 19,
+        "importe": "25 €"
       },
       {
         "pos": 4,
-        "equipo": "RX BOWL",
-        "puntos": 7
+        "equipo": "NEXT",
+        "parejas": 10,
+        "individual": 6,
+        "serie": 3,
+        "puntos": 19,
+        "importe": "25 €"
       },
       {
         "pos": 5,
-        "equipo": "TIRAPOCO",
-        "puntos": 6
+        "equipo": "BeCUADRO",
+        "parejas": 7,
+        "individual": 6,
+        "serie": 3,
+        "puntos": 16
       },
       {
         "pos": 6,
-        "equipo": "LUCKY STRIKE",
-        "puntos": 3
+        "equipo": "PLENO o PLOMO",
+        "parejas": 6,
+        "individual": 6,
+        "serie": 2,
+        "puntos": 14
       },
       {
         "pos": 7,
-        "equipo": "PIN CUANTICO",
-        "puntos": 1
+        "equipo": "LUCKY STRIKE",
+        "parejas": 3,
+        "individual": 5,
+        "serie": 3,
+        "puntos": 11
       },
       {
         "pos": 8,
-        "equipo": "BeCUADRO",
-        "puntos": 1
+        "equipo": "RX BOWL",
+        "parejas": 7,
+        "individual": 0,
+        "serie": 0,
+        "puntos": 7
       },
       {
         "pos": 9,
-        "equipo": "IONICS",
-        "puntos": 0
+        "equipo": "PIN TWISTER",
+        "parejas": 4,
+        "individual": 1,
+        "serie": 2,
+        "puntos": 7
       },
       {
         "pos": 10,
         "equipo": "BACKSTRIKE BOYS",
+        "parejas": 0,
+        "individual": 0,
+        "serie": 0,
         "puntos": 0
       },
       {
         "pos": 11,
-        "equipo": "PIN TWISTER",
+        "equipo": "FRIJOL CON BOLA",
+        "parejas": 0,
+        "individual": 0,
+        "serie": 0,
         "puntos": 0
       },
       {
         "pos": 12,
-        "equipo": "FRIJOL CON BOLA",
+        "equipo": "IONICS",
+        "parejas": 0,
+        "individual": 0,
+        "serie": 0,
         "puntos": 0
       }
     ],
