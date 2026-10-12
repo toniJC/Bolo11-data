@@ -19,13 +19,21 @@
     }
   },
   "nextJornada": {
-    "announcement": "2ª Y 3ª JORNADAS",
-    "date": "Lunes 5 de octubre de 2026",
+    "announcement": "3ª Y 4ª JORNADAS",
+    "date": "Lunes 19 de octubre de 2026",
     "libran": []
   },
   "zonaCampeonato": [
     {
       "pos": 1,
+      "equipo": "B-ALL IN",
+      "bolos": 2232,
+      "partidas": 12,
+      "promedio": 186.0,
+      "puntos": 13.0
+    },
+    {
+      "pos": 2,
       "equipo": "LOS ROMPE FRENOS",
       "bolos": 1704,
       "partidas": 12,
@@ -33,7 +41,15 @@
       "puntos": 11.5
     },
     {
-      "pos": 2,
+      "pos": 3,
+      "equipo": "BOLAS FUERA",
+      "bolos": 2144,
+      "partidas": 12,
+      "promedio": 178.667,
+      "puntos": 11.0
+    },
+    {
+      "pos": 4,
       "equipo": "TENEMOS BOLAS",
       "bolos": 1956,
       "partidas": 12,
@@ -41,7 +57,7 @@
       "puntos": 11.0
     },
     {
-      "pos": 3,
+      "pos": 5,
       "equipo": "MARINES ESPACIALES",
       "bolos": 1727,
       "partidas": 12,
@@ -49,7 +65,23 @@
       "puntos": 11.0
     },
     {
-      "pos": 4,
+      "pos": 6,
+      "equipo": "LEYENDAS",
+      "bolos": 1612,
+      "partidas": 12,
+      "promedio": 134.333,
+      "puntos": 11.0
+    },
+    {
+      "pos": 7,
+      "equipo": "IRON PIN",
+      "bolos": 1616,
+      "partidas": 12,
+      "promedio": 134.667,
+      "puntos": 10.25
+    },
+    {
+      "pos": 8,
       "equipo": "LOS PÉREZ",
       "bolos": 1865,
       "partidas": 12,
@@ -57,23 +89,23 @@
       "puntos": 10.0
     },
     {
-      "pos": 5,
-      "equipo": "BOLAS FUERA",
-      "bolos": 1276,
-      "partidas": 6,
-      "promedio": 212.667,
-      "puntos": 7.0
+      "pos": 9,
+      "equipo": "THUNDERBALLS",
+      "bolos": 1732,
+      "partidas": 12,
+      "promedio": 144.333,
+      "puntos": 10.0
     },
     {
-      "pos": 6,
-      "equipo": "LEYENDAS",
-      "bolos": 820,
-      "partidas": 6,
+      "pos": 10,
+      "equipo": "LOS CAMALEONES",
+      "bolos": 1640,
+      "partidas": 12,
       "promedio": 136.667,
-      "puntos": 7.0
+      "puntos": 8.75
     },
     {
-      "pos": 7,
+      "pos": 11,
       "equipo": "LOS PICAPIEDRA",
       "bolos": 1214,
       "partidas": 12,
@@ -81,15 +113,7 @@
       "puntos": 6.5
     },
     {
-      "pos": 8,
-      "equipo": "B-ALL IN",
-      "bolos": 1196,
-      "partidas": 6,
-      "promedio": 199.333,
-      "puntos": 6.0
-    },
-    {
-      "pos": 9,
+      "pos": 12,
       "equipo": "EQUIPO VELA",
       "bolos": 1147,
       "partidas": 12,
@@ -97,44 +121,20 @@
       "puntos": 6.0
     },
     {
-      "pos": 10,
-      "equipo": "LOS CAMALEONES",
-      "bolos": 921,
-      "partidas": 6,
-      "promedio": 153.5,
-      "puntos": 5.75
-    },
-    {
-      "pos": 11,
-      "equipo": "IRON PIN",
-      "bolos": 827,
-      "partidas": 6,
-      "promedio": 137.833,
-      "puntos": 4.25
-    },
-    {
-      "pos": 12,
-      "equipo": "THUNDERBALLS",
-      "bolos": 853,
-      "partidas": 6,
-      "promedio": 142.167,
-      "puntos": 4.0
-    },
-    {
       "pos": 13,
-      "equipo": "ARIES",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0.0
+      "equipo": "LOS GUTI",
+      "bolos": 1108,
+      "partidas": 6,
+      "promedio": 184.667,
+      "puntos": 6.0
     },
     {
       "pos": 14,
-      "equipo": "LOS GUTI",
-      "bolos": 0,
-      "partidas": 0,
-      "promedio": 0,
-      "puntos": 0.0
+      "equipo": "ARIES",
+      "bolos": 687,
+      "partidas": 6,
+      "promedio": 114.5,
+      "puntos": 4.0
     }
   ],
   "zonaConsolacion": [],
@@ -468,6 +468,30 @@
           "puntosA": 4.5,
           "equipoB": "TENEMOS BOLAS",
           "puntosB": 5.5
+        },
+        {
+          "equipoA": "LOS GUTI",
+          "puntosA": 6.0,
+          "equipoB": "LEYENDAS",
+          "puntosB": 4.0
+        },
+        {
+          "equipoA": "BOLAS FUERA",
+          "puntosA": 4.0,
+          "equipoB": "THUNDERBALLS",
+          "puntosB": 6.0
+        },
+        {
+          "equipoA": "ARIES",
+          "puntosA": 4.0,
+          "equipoB": "IRON PIN",
+          "puntosB": 6.0
+        },
+        {
+          "equipoA": "B-ALL IN",
+          "puntosA": 7.0,
+          "equipoB": "LOS CAMALEONES",
+          "puntosB": 3.0
         }
       ],
       "consolacion": [],
