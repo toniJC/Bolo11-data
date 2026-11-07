@@ -732,11 +732,11 @@
     }
   ],
   "premiosDirectos": {
-    "ciclo": 1,
+    "ciclo": 2,
     "jornadasCiclo": [
-      1,
-      2,
-      3
+      4,
+      5,
+      6
     ],
     "premios": [
       {
@@ -772,83 +772,79 @@
     "clasificacion": [
       {
         "pos": 1,
-        "equipo": "TIRAPOCO",
-        "parejas": 13,
-        "individual": 17,
-        "serie": 5,
-        "puntos": 35,
-        "importe": "65 €"
+        "equipo": "RX BOWL",
+        "parejas": 4,
+        "individual": 6,
+        "serie": 3,
+        "puntos": 13
       },
       {
         "pos": 2,
-        "equipo": "PIN CUANTICO",
-        "parejas": 5,
-        "individual": 7,
-        "serie": 7,
-        "puntos": 19,
-        "importe": "25 €"
+        "equipo": "BACKSTRIKE BOYS",
+        "parejas": 3,
+        "individual": 1,
+        "serie": 5,
+        "puntos": 9
       },
       {
         "pos": 3,
-        "equipo": "MASTER BLACK",
-        "parejas": 8,
-        "individual": 6,
-        "serie": 5,
-        "puntos": 19,
-        "importe": "25 €"
+        "equipo": "TIRAPOCO",
+        "parejas": 4,
+        "individual": 4,
+        "serie": 0,
+        "puntos": 8
       },
       {
         "pos": 4,
         "equipo": "NEXT",
-        "parejas": 10,
-        "individual": 6,
-        "serie": 3,
-        "puntos": 19,
-        "importe": "25 €"
+        "parejas": 3,
+        "individual": 2,
+        "serie": 2,
+        "puntos": 7
       },
       {
         "pos": 5,
         "equipo": "BeCUADRO",
-        "parejas": 7,
-        "individual": 6,
-        "serie": 3,
-        "puntos": 16
-      },
-      {
-        "pos": 6,
-        "equipo": "PLENO o PLOMO",
-        "parejas": 6,
-        "individual": 6,
-        "serie": 2,
-        "puntos": 14
-      },
-      {
-        "pos": 7,
-        "equipo": "LUCKY STRIKE",
-        "parejas": 3,
-        "individual": 5,
-        "serie": 3,
-        "puntos": 11
-      },
-      {
-        "pos": 8,
-        "equipo": "RX BOWL",
-        "parejas": 7,
-        "individual": 0,
+        "parejas": 4,
+        "individual": 3,
         "serie": 0,
         "puntos": 7
       },
       {
+        "pos": 6,
+        "equipo": "FRIJOL CON BOLA",
+        "parejas": 3,
+        "individual": 0,
+        "serie": 0,
+        "puntos": 3
+      },
+      {
+        "pos": 7,
+        "equipo": "PLENO o PLOMO",
+        "parejas": 0,
+        "individual": 2,
+        "serie": 0,
+        "puntos": 2
+      },
+      {
+        "pos": 8,
+        "equipo": "MASTER BLACK",
+        "parejas": 0,
+        "individual": 0,
+        "serie": 0,
+        "puntos": 0
+      },
+      {
         "pos": 9,
-        "equipo": "PIN TWISTER",
-        "parejas": 4,
-        "individual": 1,
-        "serie": 2,
-        "puntos": 7
+        "equipo": "IONICS",
+        "parejas": 0,
+        "individual": 0,
+        "serie": 0,
+        "puntos": 0
       },
       {
         "pos": 10,
-        "equipo": "BACKSTRIKE BOYS",
+        "equipo": "LUCKY STRIKE",
         "parejas": 0,
         "individual": 0,
         "serie": 0,
@@ -856,7 +852,7 @@
       },
       {
         "pos": 11,
-        "equipo": "FRIJOL CON BOLA",
+        "equipo": "PIN CUANTICO",
         "parejas": 0,
         "individual": 0,
         "serie": 0,
@@ -864,7 +860,7 @@
       },
       {
         "pos": 12,
-        "equipo": "IONICS",
+        "equipo": "PIN TWISTER",
         "parejas": 0,
         "individual": 0,
         "serie": 0,
@@ -873,473 +869,473 @@
     ],
     "jornadas": [
       {
-        "numero": 1,
+        "numero": 5,
         "equipos": [
           {
             "pos": 1,
-            "equipo": "MASTER BLACK",
-            "hdcp": 51,
+            "equipo": "RX BOWL",
+            "hdcp": 30,
             "partidas": [
               {
-                "bolos": 319,
-                "bh": 370,
+                "bolos": 367,
+                "bh": 397,
                 "puntos": 0
               },
               {
-                "bolos": 425,
-                "bh": 476,
+                "bolos": 383,
+                "bh": 413,
+                "puntos": 0
+              },
+              {
+                "bolos": 450,
+                "bh": 480,
                 "puntos": 4
+              }
+            ],
+            "individual": [
+              {
+                "bolos": 199,
+                "puntos": 0
+              },
+              {
+                "bolos": 243,
+                "puntos": 3
+              },
+              {
+                "bolos": 246,
+                "puntos": 3
+              }
+            ],
+            "serie": 1290,
+            "puntosSerie": 3,
+            "total": 13
+          },
+          {
+            "pos": 2,
+            "equipo": "BACKSTRIKE BOYS",
+            "hdcp": 82,
+            "partidas": [
+              {
+                "bolos": 323,
+                "bh": 405,
+                "puntos": 0
               },
               {
                 "bolos": 335,
+                "bh": 417,
+                "puntos": 1
+              },
+              {
+                "bolos": 390,
+                "bh": 472,
+                "puntos": 2
+              }
+            ],
+            "individual": [
+              {
+                "bolos": 181,
+                "puntos": 0
+              },
+              {
+                "bolos": 188,
+                "puntos": 0
+              },
+              {
+                "bolos": 219,
+                "puntos": 1
+              }
+            ],
+            "serie": 1294,
+            "puntosSerie": 5,
+            "total": 9
+          },
+          {
+            "pos": 3,
+            "equipo": "TIRAPOCO",
+            "hdcp": 25,
+            "partidas": [
+              {
+                "bolos": 390,
+                "bh": 415,
+                "puntos": 0
+              },
+              {
+                "bolos": 419,
+                "bh": 444,
+                "puntos": 4
+              },
+              {
+                "bolos": 362,
+                "bh": 387,
+                "puntos": 0
+              }
+            ],
+            "individual": [
+              {
+                "bolos": 239,
+                "puntos": 2
+              },
+              {
+                "bolos": 226,
+                "puntos": 2
+              },
+              {
+                "bolos": 211,
+                "puntos": 0
+              }
+            ],
+            "serie": 1246,
+            "puntosSerie": 0,
+            "total": 8
+          },
+          {
+            "pos": 4,
+            "equipo": "NEXT",
+            "hdcp": 66,
+            "partidas": [
+              {
+                "bolos": 361,
+                "bh": 427,
+                "puntos": 1
+              },
+              {
+                "bolos": 355,
+                "bh": 421,
+                "puntos": 2
+              },
+              {
+                "bolos": 334,
+                "bh": 400,
+                "puntos": 0
+              }
+            ],
+            "individual": [
+              {
+                "bolos": 215,
+                "puntos": 1
+              },
+              {
+                "bolos": 197,
+                "puntos": 1
+              },
+              {
+                "bolos": 189,
+                "puntos": 0
+              }
+            ],
+            "serie": 1248,
+            "puntosSerie": 2,
+            "total": 7
+          },
+          {
+            "pos": 5,
+            "equipo": "BeCUADRO",
+            "hdcp": 18,
+            "partidas": [
+              {
+                "bolos": 456,
+                "bh": 474,
+                "puntos": 4
+              },
+              {
+                "bolos": 301,
+                "bh": 319,
+                "puntos": 0
+              },
+              {
+                "bolos": 368,
                 "bh": 386,
                 "puntos": 0
               }
             ],
             "individual": [
               {
-                "bolos": 166,
-                "puntos": 0
-              },
-              {
-                "bolos": 245,
+                "bolos": 244,
                 "puntos": 3
               },
               {
-                "bolos": 178,
+                "bolos": 156,
+                "puntos": 0
+              },
+              {
+                "bolos": 190,
                 "puntos": 0
               }
             ],
-            "serie": 1232,
-            "puntosSerie": 5,
-            "total": 12
-          },
-          {
-            "pos": 2,
-            "equipo": "PLENO o PLOMO",
-            "hdcp": 27,
-            "partidas": [
-              {
-                "bolos": 370,
-                "bh": 397,
-                "puntos": 0
-              },
-              {
-                "bolos": 387,
-                "bh": 414,
-                "puntos": 2
-              },
-              {
-                "bolos": 403,
-                "bh": 430,
-                "puntos": 2
-              }
-            ],
-            "individual": [
-              {
-                "bolos": 176,
-                "puntos": 0
-              },
-              {
-                "bolos": 199,
-                "puntos": 1
-              },
-              {
-                "bolos": 226,
-                "puntos": 3
-              }
-            ],
-            "serie": 1187,
-            "puntosSerie": 2,
-            "total": 10
-          },
-          {
-            "pos": 3,
-            "equipo": "NEXT",
-            "hdcp": 68,
-            "partidas": [
-              {
-                "bolos": 405,
-                "bh": 473,
-                "puntos": 4
-              },
-              {
-                "bolos": 315,
-                "bh": 383,
-                "puntos": 0
-              },
-              {
-                "bolos": 270,
-                "bh": 338,
-                "puntos": 0
-              }
-            ],
-            "individual": [
-              {
-                "bolos": 211,
-                "puntos": 2
-              },
-              {
-                "bolos": 182,
-                "puntos": 0
-              },
-              {
-                "bolos": 141,
-                "puntos": 0
-              }
-            ],
-            "serie": 1194,
-            "puntosSerie": 3,
-            "total": 9
-          },
-          {
-            "pos": 4,
-            "equipo": "RX BOWL",
-            "hdcp": 65,
-            "partidas": [
-              {
-                "bolos": 379,
-                "bh": 444,
-                "puntos": 2
-              },
-              {
-                "bolos": 323,
-                "bh": 388,
-                "puntos": 1
-              },
-              {
-                "bolos": 380,
-                "bh": 445,
-                "puntos": 4
-              }
-            ],
-            "individual": [
-              {
-                "bolos": 161,
-                "puntos": 0
-              },
-              {
-                "bolos": 169,
-                "puntos": 0
-              },
-              {
-                "bolos": 168,
-                "puntos": 0
-              }
-            ],
-            "serie": 1148,
+            "serie": 1179,
             "puntosSerie": 0,
             "total": 7
           },
           {
-            "pos": 5,
-            "equipo": "TIRAPOCO",
-            "hdcp": 27,
-            "partidas": [
-              {
-                "bolos": 402,
-                "bh": 429,
-                "puntos": 1
-              },
-              {
-                "bolos": 344,
-                "bh": 371,
-                "puntos": 0
-              },
-              {
-                "bolos": 307,
-                "bh": 334,
-                "puntos": 0
-              }
-            ],
-            "individual": [
-              {
-                "bolos": 214,
-                "puntos": 3
-              },
-              {
-                "bolos": 220,
-                "puntos": 2
-              },
-              {
-                "bolos": 160,
-                "puntos": 0
-              }
-            ],
-            "serie": 1134,
-            "puntosSerie": 0,
-            "total": 6
-          },
-          {
             "pos": 6,
-            "equipo": "LUCKY STRIKE",
-            "hdcp": 32,
+            "equipo": "FRIJOL CON BOLA",
+            "hdcp": 84,
             "partidas": [
               {
-                "bolos": 318,
-                "bh": 350,
+                "bolos": 357,
+                "bh": 441,
+                "puntos": 2
+              },
+              {
+                "bolos": 246,
+                "bh": 330,
                 "puntos": 0
               },
               {
-                "bolos": 321,
-                "bh": 353,
-                "puntos": 0
-              },
-              {
-                "bolos": 382,
-                "bh": 414,
+                "bolos": 340,
+                "bh": 424,
                 "puntos": 1
               }
             ],
             "individual": [
               {
-                "bolos": 170,
+                "bolos": 199,
                 "puntos": 0
               },
               {
-                "bolos": 173,
+                "bolos": 162,
                 "puntos": 0
               },
               {
-                "bolos": 218,
-                "puntos": 2
+                "bolos": 179,
+                "puntos": 0
               }
             ],
-            "serie": 1120,
+            "serie": 1195,
             "puntosSerie": 0,
             "total": 3
           },
           {
             "pos": 7,
-            "equipo": "PIN CUANTICO",
-            "hdcp": 63,
+            "equipo": "PLENO o PLOMO",
+            "hdcp": 43,
             "partidas": [
               {
-                "bolos": 283,
-                "bh": 346,
+                "bolos": 358,
+                "bh": 401,
                 "puntos": 0
               },
               {
-                "bolos": 258,
-                "bh": 321,
+                "bolos": 337,
+                "bh": 380,
                 "puntos": 0
               },
               {
-                "bolos": 326,
-                "bh": 389,
+                "bolos": 366,
+                "bh": 409,
                 "puntos": 0
               }
             ],
             "individual": [
               {
-                "bolos": 171,
+                "bolos": 192,
                 "puntos": 0
               },
-              {
-                "bolos": 143,
-                "puntos": 0
-              },
-              {
-                "bolos": 181,
-                "puntos": 1
-              }
-            ],
-            "serie": 1056,
-            "puntosSerie": 0,
-            "total": 1
-          },
-          {
-            "pos": 8,
-            "equipo": "BeCUADRO",
-            "hdcp": 17,
-            "partidas": [
-              {
-                "bolos": 350,
-                "bh": 367,
-                "puntos": 0
-              },
-              {
-                "bolos": 320,
-                "bh": 337,
-                "puntos": 0
-              },
-              {
-                "bolos": 327,
-                "bh": 344,
-                "puntos": 0
-              }
-            ],
-            "individual": [
-              {
-                "bolos": 185,
-                "puntos": 1
-              },
-              {
-                "bolos": 193,
-                "puntos": 0
-              },
-              {
-                "bolos": 168,
-                "puntos": 0
-              }
-            ],
-            "serie": 1048,
-            "puntosSerie": 0,
-            "total": 1
-          },
-          {
-            "pos": 9,
-            "equipo": "IONICS",
-            "hdcp": 73,
-            "partidas": [
-              {
-                "bolos": 276,
-                "bh": 349,
-                "puntos": 0
-              },
-              {
-                "bolos": 298,
-                "bh": 371,
-                "puntos": 0
-              },
-              {
-                "bolos": 324,
-                "bh": 397,
-                "puntos": 0
-              }
-            ],
-            "individual": [
-              {
-                "bolos": 143,
-                "puntos": 0
-              },
-              {
-                "bolos": 150,
-                "puntos": 0
-              },
-              {
-                "bolos": 175,
-                "puntos": 0
-              }
-            ],
-            "serie": 1117,
-            "puntosSerie": 0,
-            "total": 0
-          },
-          {
-            "pos": 10,
-            "equipo": "BACKSTRIKE BOYS",
-            "hdcp": 84,
-            "partidas": [
-              {
-                "bolos": 286,
-                "bh": 370,
-                "puntos": 0
-              },
-              {
-                "bolos": 247,
-                "bh": 331,
-                "puntos": 0
-              },
-              {
-                "bolos": 255,
-                "bh": 339,
-                "puntos": 0
-              }
-            ],
-            "individual": [
               {
                 "bolos": 179,
                 "puntos": 0
               },
               {
-                "bolos": 129,
+                "bolos": 221,
+                "puntos": 2
+              }
+            ],
+            "serie": 1190,
+            "puntosSerie": 0,
+            "total": 2
+          },
+          {
+            "pos": 8,
+            "equipo": "MASTER BLACK",
+            "hdcp": 43,
+            "partidas": [
+              {
+                "bolos": 335,
+                "bh": 378,
                 "puntos": 0
               },
               {
-                "bolos": 138,
+                "bolos": 344,
+                "bh": 387,
+                "puntos": 0
+              },
+              {
+                "bolos": 364,
+                "bh": 407,
                 "puntos": 0
               }
             ],
-            "serie": 1040,
+            "individual": [
+              {
+                "bolos": 195,
+                "puntos": 0
+              },
+              {
+                "bolos": 176,
+                "puntos": 0
+              },
+              {
+                "bolos": 196,
+                "puntos": 0
+              }
+            ],
+            "serie": 1172,
+            "puntosSerie": 0,
+            "total": 0
+          },
+          {
+            "pos": 9,
+            "equipo": "IONICS",
+            "hdcp": 80,
+            "partidas": [
+              {
+                "bolos": 257,
+                "bh": 337,
+                "puntos": 0
+              },
+              {
+                "bolos": 305,
+                "bh": 385,
+                "puntos": 0
+              },
+              {
+                "bolos": 284,
+                "bh": 364,
+                "puntos": 0
+              }
+            ],
+            "individual": [
+              {
+                "bolos": 133,
+                "puntos": 0
+              },
+              {
+                "bolos": 163,
+                "puntos": 0
+              },
+              {
+                "bolos": 148,
+                "puntos": 0
+              }
+            ],
+            "serie": 1086,
+            "puntosSerie": 0,
+            "total": 0
+          },
+          {
+            "pos": 10,
+            "equipo": "LUCKY STRIKE",
+            "hdcp": 0,
+            "partidas": [
+              {
+                "bolos": null,
+                "bh": null,
+                "puntos": 0
+              },
+              {
+                "bolos": null,
+                "bh": null,
+                "puntos": 0
+              },
+              {
+                "bolos": null,
+                "bh": null,
+                "puntos": 0
+              }
+            ],
+            "individual": [
+              {
+                "bolos": null,
+                "puntos": 0
+              },
+              {
+                "bolos": null,
+                "puntos": 0
+              },
+              {
+                "bolos": null,
+                "puntos": 0
+              }
+            ],
+            "serie": null,
             "puntosSerie": 0,
             "total": 0
           },
           {
             "pos": 11,
-            "equipo": "PIN TWISTER",
-            "hdcp": 52,
+            "equipo": "PIN CUANTICO",
+            "hdcp": 0,
             "partidas": [
               {
-                "bolos": 302,
-                "bh": 354,
+                "bolos": null,
+                "bh": null,
                 "puntos": 0
               },
               {
-                "bolos": 318,
-                "bh": 370,
+                "bolos": null,
+                "bh": null,
                 "puntos": 0
               },
               {
-                "bolos": 316,
-                "bh": 368,
+                "bolos": null,
+                "bh": null,
                 "puntos": 0
               }
             ],
             "individual": [
               {
-                "bolos": 152,
+                "bolos": null,
                 "puntos": 0
               },
               {
-                "bolos": 160,
+                "bolos": null,
                 "puntos": 0
               },
               {
-                "bolos": 175,
+                "bolos": null,
                 "puntos": 0
               }
             ],
-            "serie": 1092,
+            "serie": null,
             "puntosSerie": 0,
             "total": 0
           },
           {
             "pos": 12,
-            "equipo": "FRIJOL CON BOLA",
-            "hdcp": 49,
+            "equipo": "PIN TWISTER",
+            "hdcp": 0,
             "partidas": [
               {
-                "bolos": 293,
-                "bh": 342,
+                "bolos": null,
+                "bh": null,
                 "puntos": 0
               },
               {
-                "bolos": 326,
-                "bh": 375,
+                "bolos": null,
+                "bh": null,
                 "puntos": 0
               },
               {
-                "bolos": 249,
-                "bh": 298,
+                "bolos": null,
+                "bh": null,
                 "puntos": 0
               }
             ],
             "individual": [
               {
-                "bolos": 173,
+                "bolos": null,
                 "puntos": 0
               },
               {
-                "bolos": 185,
+                "bolos": null,
                 "puntos": 0
               },
               {
-                "bolos": 147,
+                "bolos": null,
                 "puntos": 0
               }
             ],
-            "serie": 1015,
+            "serie": null,
             "puntosSerie": 0,
             "total": 0
           }
