@@ -686,6 +686,51 @@
       "libraron": []
     },
     {
+      "numero": 4,
+      "vuelta": 1,
+      "maxPuntosPorPartido": 10,
+      "campeonato": [
+        {
+          "equipoA": "IONICS",
+          "puntosA": 3.5,
+          "equipoB": "BeCUADRO",
+          "puntosB": 6.5
+        },
+        {
+          "equipoA": "PIN CUANTICO",
+          "puntosA": 5.0,
+          "equipoB": "MASTER BLACK",
+          "puntosB": 5.0
+        },
+        {
+          "equipoA": "PLENO o PLOMO",
+          "puntosA": 3.0,
+          "equipoB": "LUCKY STRIKE",
+          "puntosB": 7.0
+        },
+        {
+          "equipoA": "FRIJOL CON BOLA",
+          "puntosA": 3.5,
+          "equipoB": "RX BOWL",
+          "puntosB": 6.5
+        },
+        {
+          "equipoA": "PIN TWISTER",
+          "puntosA": 3.0,
+          "equipoB": "TIRAPOCO",
+          "puntosB": 7.0
+        },
+        {
+          "equipoA": "NEXT",
+          "puntosA": null,
+          "equipoB": "BACKSTRIKE BOYS",
+          "puntosB": null
+        }
+      ],
+      "consolacion": [],
+      "libraron": []
+    },
+    {
       "numero": 5,
       "vuelta": 1,
       "maxPuntosPorPartido": 10,
